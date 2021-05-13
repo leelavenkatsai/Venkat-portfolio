@@ -9,3 +9,8 @@
 * Given a plain text document and a set of questions, the module should return an answer for each question. The goal is to produce answers that are fluent, correct and concise. That is the answers should be in idiomatic / grammatically correct English, they should be correct according to the document and they should not contain any extra words.
 
 * where article.txt is a path to an arbitrary plain text file (the article) and questions.txt is a path to an arbitrary file of questions (one question per line with no extraneous material). The output (to STDOUT) should contain a sequence of answers with each answer terminated by a newline character.
+
+
+# Week-1 
+*Data collection pipeline - HTML parsing and text extraction #2
+using beautifulsoup library we have parsed the data and extracted the text inbetween the HTML tags
